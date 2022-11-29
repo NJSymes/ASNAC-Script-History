@@ -1,0 +1,164 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://48229e5c-142a-4886-afee-7ca463a756d7",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://a274aa30-de1e-4b50-8e65-e18cc25782ce",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-9",
+					"@type": "sc:Canvas",
+					"label": "f. iir",
+					"height": 5669,
+					"width": 3824,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/imageanno/anno-9",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%2F178_ii_R_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 5669,
+								"width": 3824,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%252F178_ii_R_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-9"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/manifest.json",
+						"label": "Old English Homilies. Benedictine Rule in Latin and Old English",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-13",
+					"@type": "sc:Canvas",
+					"label": "p. 1",
+					"height": 5772,
+					"width": 3721,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/imageanno/anno-13",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%2F178_001_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 5772,
+								"width": 3721,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%252F178_001_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-13"
+						}
+					],
+					"otherContent": [
+						{
+							"@type": "sc:AnnotationList",
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/list/1.json"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/manifest.json",
+						"label": "Old English Homilies. Benedictine Rule in Latin and Old English",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-25",
+					"@type": "sc:Canvas",
+					"label": "p. 13",
+					"height": 5874,
+					"width": 3673,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/imageanno/anno-25",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%2F178_013_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 5874,
+								"width": 3673,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%252F178_013_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-25"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/manifest.json",
+						"label": "Old English Homilies. Benedictine Rule in Latin and Old English",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-40",
+					"@type": "sc:Canvas",
+					"label": "p. 28",
+					"height": 5871,
+					"width": 3656,
+					"images": [
+						{
+							"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/imageanno/anno-40",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%2F178_028_TC_46/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"height": 5871,
+								"width": 3656,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://stacks.stanford.edu/image/iiif/pm669yz1553%252F178_028_TC_46",
+									"profile": "http://iiif.io/api/image/2/level1.json"
+								}
+							},
+							"on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-40"
+						}
+					],
+					"related": {
+						"@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/manifest.json",
+						"label": "Old English Homilies. Benedictine Rule in Latin and Old English",
+						"format": ""
+					}
+				}
+			]
+		}
+	],
+	"structures": []
+}
